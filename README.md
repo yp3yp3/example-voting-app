@@ -8,7 +8,7 @@ Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Ma
 
 This solution uses Python, Node.js, .NET, with Redis for messaging and Postgres for storage.
 
-You need to use "redis:alpine" and "postgres:15-alpine" images/
+You need to use "redis:alpine" and "postgres:15-alpine" images.
 
 ## Architecture
 
